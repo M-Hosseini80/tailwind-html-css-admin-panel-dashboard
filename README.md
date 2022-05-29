@@ -1,6 +1,6 @@
 # tailwind-html-css-admin-panel-dashboard
 Responsive HTML CSS Tailwind Admin Panel Dashboard
-
+it's full responsive
 **Tailwind Responsive Dashboard**
 
 ![Desktop](https://user-images.githubusercontent.com/40790864/167835733-e25f0132-4b16-40b3-8c3f-f233fc51b8f8.JPG)
